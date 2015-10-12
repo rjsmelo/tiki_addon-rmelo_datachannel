@@ -1,0 +1,8 @@
+---
+objects:
+ -
+  type: wiki_page
+  data:
+   name: $profilerequest:text$Some Text$
+   content: $profilerequest:radio$radio$ / $profilerequest:checkbox$checkbox$ / $profilerequest:select$select$ / $profilerequest:textarea$textarea$
+

@@ -1,0 +1,6 @@
+{DATACHANNEL(channel="rmelo_datachannel_create_wiki" debug="y" template="addons/rmelo_datachannel/templates/wikiplugin_datachannel.tpl")}text,text
+radio,radio
+checkbox,checkbox
+select,select
+textarea,textarea
+{DATACHANNEL}
